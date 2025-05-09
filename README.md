@@ -37,14 +37,6 @@ npm run dev
 
 ```
 
-### Docker ile Çalıştırma
-
-```bash
-# Bağımlılıkları yükleyin
-docker-compose up
-
-```
-
 > **Not:** Uygulama **3001 portu** üzerinde çalışmaktadır. Tarayıcınızda [http://localhost:3001](http://localhost:3001) adresini ziyaret edin.
 
 
